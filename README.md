@@ -1,3 +1,3 @@
 # Requis
-https://git-scm.com/downloads -> Windows\n
-https://www.python.org/downloads/ -> Windows
+Git: https://git-scm.com/downloads Python: 
+https://www.python.org/downloads/ Version Windows
