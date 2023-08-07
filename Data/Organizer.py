@@ -150,5 +150,5 @@ print(dox_info)
 print("""\n
 """)
 input("Press enter for exit...")
-dragon_tools_path = os.path.expanduser(r'"C:\Program Files\DragonTools\DragonTools-main.exe"')
+dragon_tools_path = os.path.expanduser(r'C:\Program Files\DragonTools\DragonTools-main.exe')
 subprocess.run(['start', dragon_tools_path], shell=True)
